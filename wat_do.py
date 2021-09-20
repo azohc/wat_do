@@ -1,7 +1,6 @@
 #! /bin/python
 # kaizen practice proposer
 # by azohc juanchozass@gmail.com
-# ¿cultivate consitency? ¿¿at what?? let chance decide what you practice next
 
 from random import randint
 import time
